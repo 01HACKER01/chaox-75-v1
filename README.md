@@ -1,4 +1,7 @@
 # chaox-75-v1
+<img width="1069" height="642" alt="image" src="https://github.com/user-attachments/assets/3201f05b-78d7-48f6-a23e-541c22bc842a" />
+<img width="1143" height="400" alt="image" src="https://github.com/user-attachments/assets/9a4ddf99-97c8-4abc-9a9b-71fc1354a5fd" />
+<img width="1607" height="469" alt="image" src="https://github.com/user-attachments/assets/ed5af905-778a-4481-b5b2-8c6519f1839d" />
 <img width="1119" height="490" alt="1" src="https://github.com/user-attachments/assets/0e1d323f-38ee-485a-ac9e-dbe66c5c6a3f" />
 <img width="935" height="622" alt="image" src="https://github.com/user-attachments/assets/ca72729d-548c-4103-8dd6-d4ceeb5c9c78" />
 <img width="1017" height="670" alt="image" src="https://github.com/user-attachments/assets/cdfbce8c-92ea-4b02-8bc8-901a1554d9f0" />
