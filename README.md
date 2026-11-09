@@ -5,14 +5,24 @@
 <img width="1032" height="365" alt="image" src="https://github.com/user-attachments/assets/0a40b28d-8ecf-4462-8cca-545c3bf6ef00" />
 <img width="1051" height="646" alt="image" src="https://github.com/user-attachments/assets/040eaf38-4fe6-4546-b5b7-2a041786c0bb" />
 
-## ORIGIN
-So I started making this along time ago, I didin't have any idea what to make so I went through the guide and explored a while than thought lets make a keyboard I made the whole keyboard except the firmware cause I dont know any coding languages for firmware making so I had to pause this project as my other project got rejected for using artificial intelligence to make the firmware so I couldn't use artificial intelligence to make the firmware and started making other projects without the firmware but today someone told me that I can make firmware using artificial intelligence so today I am gonna ship this as I can make the firmware using Artificial Intelligence,
+## What is this
+This is a keyboard based on rp2040 with only wired connection and it has 82 keys and a rotary encoder.
 
-## ABOUT IT
-So this is a simple wired keyboard which has rgb led on every switch with 82 sw switches cherry mx switches and 1 rotary encoder which I added for volume controles, it has all the A-Z switches and f1-f12 and ins, home, page up and page down, u can be change the switches just by changing the code.
+## Why does this exits
+i have a evofox keyboard which costs $10 i got it from a friend i used it for a long time but now teh keys sometimes doesnt work or doesnt press or something and i thought that lets make a keyboard so thats how this keyboard came to light. 
 
-## FIRMWARE 
-So I made the firmware using the Artificial Intelligence cause I don't know any coding languages I want to learn coding but right now I can't cause I have to study as this is my last year in high school.
+## How to assemble
+u just have to solder all the things to the pcb and for that u will need a hot air gun for smalll capacittors and the mcu and a soldering iron to solder all the switches and rotary encoder.
+
+## How to flash 
+1. plug in your RP2040 board while holding the BOOT button.
+
+2. Drag and drop the official Pico .uf2 firmware into the RPI-RP2 drive.
+to check if this worked check The drive will reboot and reappears as CIRCUITPY.
+
+3. Copy the kmk folder and main.py script from teh firmware folder straight into the root of CIRCUITPY.
+
+thats it done. 
 
 ## Bill of Materials (BOM)
 
